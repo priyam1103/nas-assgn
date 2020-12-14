@@ -84,3 +84,12 @@ RESPONSE(200) - {
                }
 
 Error if the slot number or car number is invalid.
+
+
+ABOUT DEVELOPER
+---------------------
+
+NAME - PRIYAM PODDAR
+
+I am MERN stack developer working on Full stack projects , and i have also built some of the projects which are running live.
+Talking about my experience i have worked and gain experience of 6 months.
