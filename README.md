@@ -7,6 +7,12 @@ Number of slots by default is 10. You can change it in .env file.
 
 I have used express-rate-limit to limit the rate at not more than 10 requests in 10 seconds.
 
+Current application is running on localhost and is connected to mongodb database so mongo must be installed in the system.
+
+Installation of package
+----------------------------------
+
+npm install
 
 TESTING OF APPLICATION
 ----------------------------------
